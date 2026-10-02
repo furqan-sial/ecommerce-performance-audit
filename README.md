@@ -25,6 +25,8 @@ Raw tracking exports frequently contain missing figures, dirty records, and nega
 | **Meta Ads**   | $536.00           | 4           | 85.62%            |
 | **Google Ads** | $90.00            | 2           | 14.38%            |
 
+![Channel Revenue Breakdown](assets/channel_revenue_breakdown.png)
+
 - **Primary Driver:** Meta Ads accounts for over 85% of verified top-line revenue, indicating high campaign scale.
 - **Diversification Need:** Search intent via Google Ads shows consistent conversion value but requires higher budget allocation to mitigate single-channel dependency.
 
